@@ -16,10 +16,3 @@ Esta es una aplicación de escritorio desarrollada en Python que permite calcula
 
 - Python 3.x
 - Pillow (para el manejo de imágenes)
-
-## Instalación
-
-1. Clona este repositorio:
-   ```bash
-   git clone <URL del repositorio>
-   cd <nombre del directorio>
